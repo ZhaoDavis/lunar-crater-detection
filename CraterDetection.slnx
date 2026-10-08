@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CraterDetection.vcxproj" Id="ea5f5461-468a-4d09-8248-f2cdcaf85c2f" />
+</Solution>

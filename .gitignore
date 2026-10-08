@@ -1,0 +1,6 @@
+.vs/
+*.user
+out/
+x64/
+CraterDetection/
+.vscode/
